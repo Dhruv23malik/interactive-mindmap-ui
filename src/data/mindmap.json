@@ -1,0 +1,30 @@
+{
+  "id": "root",
+  "title": "Mindmap UI",
+  "summary": "Root topic",
+  "details": "This is the main concept of the mindmap",
+  "children": [
+    {
+      "id": "frontend",
+      "title": "Frontend",
+      "summary": "UI development",
+      "details": "Handles user interaction and visuals",
+      "children": [
+        {
+          "id": "react",
+          "title": "React",
+          "summary": "UI library",
+          "details": "Component-based frontend framework",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": "data",
+      "title": "Data",
+      "summary": "Structured information",
+      "details": "JSON driven content",
+      "children": []
+    }
+  ]
+}
